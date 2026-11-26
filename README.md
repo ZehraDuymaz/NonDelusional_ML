@@ -215,6 +215,5 @@ Bu modeli kurarken teknik başarının yanında sorumluluğu da göz önünde tu
 ---
 
 <p align="center">
-  <i>Hazırlayan: [Adın Soyadın] · [Ders Adı] · 2026</i><br>
-  <sub>Sorular, öneriler ya da sadece bir merhaba için iletişime geçmekten çekinme. 🌱</sub>
+  <i>Hazırlayan: NonDelusional_ML - Makine Öğrenmesi</i><br>
 </p>
